@@ -53,11 +53,11 @@ Insight 17: 48% of the customers subscribed within 1 contact and 87% of customer
 
 CONCLUSIONS,
 
-#CONCLUSIONS,
+CONCLUSIONS,
 
-# Conclusion 1 : From insight 5,6, and 7, it is observed that people in the age group of 35 - 45 are most approached than others and have a good conversion rate.
-# But, the older people above 60, although are approached less have conversion nearing to 80 %. 
-# Thus, we should do consider increasing the leads to people above 60 years.
+ Conclusion 1 : From insight 5,6, and 7, it is observed that people in the age group of 35 - 45 are most approached than others and have a good conversion rate.
+ But, the older people above 60, although are approached less have conversion nearing to 80 %. 
+ Thus, we should do consider increasing the leads to people above 60 years.
 
 # Conclusion 2 : From Insights 8,9 ,and 10, it can be observed that Students, services people and Self-Employed people are easiest to convert but these are approached the least.
 # Similarly,people being Technician or having Blue-collor jobs are approached the most but have the least conversion.
