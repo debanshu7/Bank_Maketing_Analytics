@@ -53,3 +53,19 @@ Insight 17: 48% of the customers subscribed within 1 contact and 87% of customer
 
 CONCLUSIONS,
 
+#CONCLUSIONS,
+
+# Conclusion 1 : From insight 5,6, and 7, it is observed that people in the age group of 35 - 45 are most approached than others and have a good conversion rate.
+# But, the older people above 60, although are approached less have conversion nearing to 80 %. 
+# Thus, we should do consider increasing the leads to people above 60 years.
+
+# Conclusion 2 : From Insights 8,9 ,and 10, it can be observed that Students, services people and Self-Employed people are easiest to convert but these are approached the least.
+# Similarly,people being Technician or having Blue-collor jobs are approached the most but have the least conversion.
+# So, here we can bring some changes in this approach.
+
+# Conclusion 3 : Single people tend to subscribe term deposit the most but are approached less than married individuals.
+# Thus, new leads and conversions should be generated from single leads.
+
+# Conclusion 4 : Approaches can be biased based on the Education level of the lead or on the type of loan owned by the lead as given in Insights 12, 13, 14, and 15.
+
+# Conclusion 5 : Insights 16 and 17 tells about the duration of call for customers and average number of contacts required to convert a lead to a customer. 
